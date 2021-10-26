@@ -1,0 +1,21 @@
+.paragrafosIniciais,
+      .paragrafosSecundarios {
+        background-color: aquamarine;
+        color: brown;
+      }
+      h1,
+      h2 {
+        background-color: cadetblue;
+      }
+      #TituloPrincipal {
+        background-color: red;
+      }
+      #codigoFonte {
+        font-size: 20px;
+      }
+      #divExemplo{
+        background-color: lightgray;
+      }
+      #divTerceira{
+
+      }
